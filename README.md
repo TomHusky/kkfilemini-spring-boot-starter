@@ -14,7 +14,7 @@
 >
 > ****在线试用地址：https://tools.go996.cn/docView/****
 > 
-> ****Demo地址：https://github.com/TomHusky/kkfilemini--boot-startespringr-demo.git****
+> ****Demo地址：https://github.com/TomHusky/kkfilemini-spring-boot-starter-demo****
 
 **maven依赖坐标**
 
