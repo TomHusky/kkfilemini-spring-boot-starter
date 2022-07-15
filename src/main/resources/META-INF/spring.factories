@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.tomhusky.kkfilemini.config.AutoConfiguration
