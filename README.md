@@ -1,7 +1,7 @@
 # 工程简介
 
-> 介绍：基于开源项目KkFileView源码提取出仅用于 Office文档预览(格式转换) 功能的一个通用组件; 原理是把Word转成PDF,PPT转成PDF,Excel转成HTML;
-> 利用游览器可以直接打开PDF和HTML的特点实现在线预览;
+> 介绍：基于开源项目KkFileView源码提取出,封装成仅用于 Office文档预览(格式转换) 功能的一个通用组件; 原理是把Word转成PDF,PPT转成PDF,Excel转成HTML;
+> 利用浏览器可以直接打开PDF和HTML的特点实现在线预览;
 >
 > 环境安装: 目前支持OpenOffice或LibreOffice实现文档格式转换,请自行安装(推荐使用LibreOffice,转出的格式相对较好)
 >
@@ -9,10 +9,12 @@
 >
 > OpenOffice下载: http://www.openoffice.org/
 >
-> jdk版本: `1.8 +`
+> 项目运行环境: `jdk1.8`  `SpringBoot2.0`
 >
 >
-> ***在线试用地址：https://tools.go996.cn/docView/***
+> ****在线试用地址：https://tools.go996.cn/docView/****
+> 
+> ****Demo地址：https://github.com/TomHusky/kkfilemini--boot-startespringr-demo.git****
 
 **maven依赖坐标**
 
