@@ -4,6 +4,7 @@
 > 利用浏览器可以直接打开PDF和HTML的特点实现在线预览;
 >
 > 环境安装: 目前支持OpenOffice或LibreOffice实现文档格式转换,请自行安装(推荐使用LibreOffice,转出的格式相对较好)
+> 安装 LibreOffice教程: https://www.cnblogs.com/lwjQAQ/p/16505854.html
 >
 > LibreOffice下载:  https://zh-cn.libreoffice.org/
 >
